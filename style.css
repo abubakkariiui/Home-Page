@@ -1,0 +1,181 @@
+body {
+    background-image: url('./images/Rectangle\ 19.png');
+    background-size: cover;
+}
+.nav-link {
+  margin-top: 6px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #153258;
+}
+.header-button {
+  padding: 10px 24px;
+  border-radius: 30px;
+  border: 2px solid #153258;
+  font-weight: 600;
+}
+.backk {
+  background-image: url("../../images/2019.02-standard-of-care.webp");
+  background-size: cover;
+}
+.presentation {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  min-height: 80vh;
+  align-items: center;
+}
+.introduction {
+  flex: 1;
+}
+.intro-text h1 {
+  font-size: 48px;
+  font-weight: 500;
+  color: #153258;
+}
+.intro-text p {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #153258;
+}
+.cta {
+  padding-top: 20px;
+}
+.cta-add {
+  border-radius: 30px;
+  background: #153258;
+  width: 170px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  color: white;
+  font-weight: 600;
+}
+.cta-add:hover {
+  background: white;
+  color: #153258;
+  border: 2px solid #153258;
+}
+.cover {
+  flex: 1;
+  display: flex;
+}
+.presentation {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+  }
+  .introduction {
+    flex: 1;
+  }
+  .intro-text h3 {
+    font-size: 48px;
+    font-weight: 500;
+    color: #153258;
+  }
+  .intro-text h6 {
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #153258;
+  }
+  .cover {
+    flex: 1;
+    display: flex;
+  }
+  .cover img {
+    margin-left: 130px;
+    animation: drop 1.5s ease;
+  }
+  
+.blob {
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+    background-color: #DAEAF9;
+}
+.blob img {
+    margin: 50px 0 0 0;
+}
+.icon {
+    transform: rotate(270deg);
+    width: 32px;
+    height: 32px;
+}
+p {
+    color: #153258;
+    font-weight: 700;
+}
+.back {
+    background-image: url('../../images/slider1.png');
+    background-size: cover;
+}
+
+.presentation {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+  }
+  .introduction {
+    flex: 1;
+  }
+  .intro-text h1 {
+    font-size: 48px;
+    font-weight: 500;
+    color: #153258;
+  }
+  .intro-text p {
+    font-size: 22px;
+    margin-top: 20px;
+    color: #153258;
+  }
+  .cta {
+    padding-top: 20px;
+  } 
+  .cta-add {
+      border-radius: 30px;
+    background: #153258;
+    width: 170px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    color: white;
+    font-weight: 600;
+  }
+  .cta-add:hover {
+    background: white;
+    color: #153258;
+    border: 2px solid #153258;
+  }
+  .cover {
+    flex: 1;
+    display: flex;
+  }
+  .test1 {
+    border-top: 1px solid #153258;
+    border-bottom: 1px solid #153258;
+    border-left: 1px solid #153258;
+}
+.test {
+    border-bottom: 1px solid #153258;
+    border-top: 1px solid #153258;
+    border-right: 1px solid #153258;
+}
+.background {
+  background-color: #DAEAF9;
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bordeer {
+  border: 1px solid #153258;
+}
